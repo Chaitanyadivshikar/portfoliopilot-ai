@@ -2,7 +2,7 @@
 A rule-based intelligent portfolio analysis assistant built as an MS Finance student project at Simon Business School, University of Rochester.
 
 ## Live Demo
-👉 https://github.com/Chaitanyadivshikar/portfoliopilot-ai.git
+👉 https://chaitanyadivshikar.github.io/portfoliopilot-ai/
 
 ## Features
 - AI Portfolio Score (0–100) with 4 sub-scores
